@@ -108,7 +108,3 @@ In our seeds you will find a total of 9 departments and 9 products; Some departm
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## Project
-
-Project Link: [https://github.com/FabioSntos/e-Commerce_API](https://github.com/FabioSntos/e-Commerce_API)
